@@ -1,1 +1,1 @@
-# med.finance-.github.io
+# med.finance$.github.io
